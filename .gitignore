@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# But not these files
+!.gitignore
+
+#or these file types in these directories
+!*/Applications/*/*.wsf
+!*/Applications/*/*.ps1
+!*/Applications/*/*.ini
+!*/Control/*
+!*/Control/*/*
+!/ISO/Content/Deploy/Control/CustomSettings*.ini
+!/*.ps1
+
+# Even if files are in subdirectories
+!*/
