@@ -1,0 +1,4 @@
+Name,OU,Description
+G_MBAM_HelpDesk,"LDAP://OU=Security Groups,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM Helpdesk Access Group
+G_MBAM_Reporting,"LDAP://OU=Security Groups,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM Reports Read Only Access Group
+G_MBAM_AdvHelpDesk,"LDAP://OU=Security Groups,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM Advanced Helpdesk Access Group

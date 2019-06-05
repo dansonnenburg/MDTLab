@@ -1,0 +1,20 @@
+Name,Password,OU,Description
+Dan,P@ssw0rd,"LDAP://ou=Users,ou=CROPP,DC=dev,DC=cropp,DC=com",User Account
+Josh,P@ssw0rd,"LDAP://ou=Users,ou=CROPP,DC=dev,DC=cropp,DC=com",User Account
+Ray,P@ssw0rd,"LDAP://ou=Users,ou=CROPP,DC=dev,DC=cropp,DC=com",User Account
+
+MDT_BA,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",MDT Build Account
+MDT_JD,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",MDT Join Domain Account
+
+CM_NAA,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",ConfigMgr Network Access Account
+CM_CP,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",ConfigMgr Client Push Account
+CM_SR,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",ConfigMgr Reporting Services Account
+CM_JD,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",ConfigMgr Join Account
+
+SCOM_AA,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",SCOM Action Account
+SCOM_DA,P@ssw0rd,"LDAP://ou=Service Accounts,ou=CROPP,DC=dev,DC=cropp,DC=com",SCOM Data Access Account
+
+mbamdbarw,P@ssw0rd,"LDAP://OU=Service Accounts,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM Report Read\Write Account
+mbamapppool,P@ssw0rd,"LDAP://OU=Service Accounts,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM App Pool Account
+G_MBAM_DB_RW,P@ssw0rd,"LDAP://OU=Service Accounts,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM Access Account
+G_MBAM_Compliance_R,P@ssw0rd,"LDAP://OU=Service Accounts,OU=CROPP,DC=dev,DC=cropp,DC=com",MBAM Report Account

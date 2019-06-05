@@ -1,0 +1,8 @@
+OU,RootDomain
+"ou=CROPP","DC=dev,DC=cropp,DC=com"
+"ou=Servers,ou=CROPP","DC=dev,DC=cropp,DC=com"
+"ou=Servers,ou=CROPP","DC=dev,DC=cropp,DC=com"
+"ou=Workstations,ou=CROPP","DC=dev,DC=cropp,DC=com"
+"ou=Service Accounts,ou=CROPP","DC=dev,DC=cropp,DC=com"
+"ou=Security Groups,ou=CROPP","DC=dev,DC=cropp,DC=com"
+"ou=Users,ou=CROPP","DC=dev,DC=cropp,DC=com"
